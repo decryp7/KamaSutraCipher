@@ -1,6 +1,6 @@
 //============================================================================
 // Name        : kamasutra.cpp
-// Author      : Teo Kok Yong S8370639B
+// Author      : Teo Kok Yong
 // Version     :
 // Copyright   : Your copyright notice
 // Description : kamasutra
