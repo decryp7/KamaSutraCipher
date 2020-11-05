@@ -21,8 +21,13 @@ baba adad dcdc
 
 Instructions
 --------------------------------------
+To generate a keyfile,  
 kamasutra -k <keyfile.txt>  
-kamasutra -e <keyfile.txt> <plaintext.txt> <ciphertext.txt>  
+
+To encrypt plaintext.txt using keyfile.txt to produce ciphertext.txt,  
+kamasutra -e <keyfile.txt> <plaintext.txt> <ciphertext.txt>
+
+To decrypt ciphertext.txt using keyfile.txt to produce plaintext.txt,  
 kamasutra -d <keyfile.txt> <ciphertext.txt> <plaintext.txt>  
 
 Sources
